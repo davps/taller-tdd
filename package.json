@@ -1,0 +1,24 @@
+{
+  "name": "taller-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davps/taller-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davps/taller-tdd/issues"
+  },
+  "homepage": "https://github.com/davps/taller-tdd#readme"
+}
